@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="">🔗 Live Demo</a> |
+  <a href="https://single-price-grid-component-chai-tale.netlify.app/">🔗 Live Demo</a> |
   <a href="">📝 Solution</a> |
-  <a href="">🎯 Challenge</a>
+  <a href="https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc">🎯 Challenge</a>
 </p>
 
 ---
