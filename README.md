@@ -1,8 +1,8 @@
 <h1 align="center">💰 Single Price Grid Component</h1>
 
 <p align="center">
-<!--   <img src="https://github.com/CHAI-tale/Single-price-grid-component-FrontendMentor-solution_/blob/main/design/desktop-design.jpg" width="300" alt="Preview" /> -->
-  <img src="https://github.com/CHAI-tale/Single-price-grid-component-FrontendMentor-solution_/blob/main/design/mobile-design.jpg" alt="Preview" />
+<img src="https://raw.githubusercontent.com/CHAI-tale/Single-price-grid-component-FrontendMentor-solution_/main/design/desktop-design.jpg" width="45%" alt="Desktop Preview" />
+  <img src="https://raw.githubusercontent.com/CHAI-tale/Single-price-grid-component-FrontendMentor-solution_/main/design/mobile-design.jpg" width="45%" alt="Mobile Preview" />
  
 </p>
 
