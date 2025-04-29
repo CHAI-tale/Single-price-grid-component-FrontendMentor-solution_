@@ -1,7 +1,7 @@
 <h1 align="center">💰 Single Price Grid Component</h1>
 
 <p align="center">
-  <img src=".design/combined-preview.jpg" width="60% alt="Desktop and Mobile Preview" />
+  <img src="design/combined-preview.jpg" width="60% alt="Desktop and Mobile Preview" />
  
 </p>
 
