@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/CHAI-tale/Single-price-grid-component-FrontendMentor-solution_/blob/main/design/desktop-design.jpg" width="300" alt="Preview" />
-  <img src=" https://github.com/CHAI-tale/Single-price-grid-component-FrontendMentor-solution_/blob/main/design/mobile-design.jpg" width="300" height="300" alt="Preview" />
+  <img src=" https://github.com/CHAI-tale/Single-price-grid-component-FrontendMentor-solution_/blob/main/design/mobile-design.jpg" alt="Preview" />
  
 </p>
 
