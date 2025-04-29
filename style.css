@@ -53,7 +53,8 @@ button {
   margin: 30px;
 }
 .article-join {
-  background-color: var(--white);
+/*   background-color: var(--white); */
+   background-color: white;
 }
 .article-join > h1 {
   color: var(--Cyan);
@@ -139,10 +140,11 @@ footer {
   text-align: center;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 700px) {
   .layout {
     grid-template: 1fr 1fr / 1fr 1fr;
-    width: 550px;
+/*     width: 550px; */
+     width: 646px;
   }
   .article-join {
     grid-column: span 2;
